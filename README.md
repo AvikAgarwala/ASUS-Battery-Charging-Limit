@@ -13,12 +13,14 @@ Step-1) Install reflector.
   sudo pacman -S reflector
 ```
 
-Step-2) Give executable permission to the script file.
+Step-2) Download [mirror-update.sh](https://github.com/AvikAgarwala/arch-fingertips/blob/main/mirror-update.sh) .
+
+Step-3) Give executable permission to the script file.
 ```bash
   chmod +x mirror-update.sh
 ```
 
-Step-3) Execute the script
+Step-4) Execute the script
 ```bash
   sudo sh mirror-update.sh
 ```
