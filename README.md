@@ -27,7 +27,7 @@ Step-4) Execute the script
 Note: This will create a new file named mirrorlist.bak inside /etc/pacman.d/
 
 <!-- Set ASUS battery charging limit -->
-## ASUS battery charging limit
+## 🔋ASUS battery charging limit
 
 #### This script is used to set the charging limit for ASUS laptops (tested with ASUS ZenBook 14 UX425EA)
 
