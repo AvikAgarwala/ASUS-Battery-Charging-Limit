@@ -4,7 +4,7 @@
 scripts to make arch linux simple
 
 
-## Mirror list update
+## 🪞 Mirror list update
 
 #### This script is used to update the mirrorlist inside /etc/pacman.d/
 
