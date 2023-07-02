@@ -3,7 +3,7 @@
 
 scripts to make arch linux simple
 
-
+<!-- Mirror list update -->
 ## 🪞 Mirror list update
 
 #### This script is used to update the mirrorlist inside /etc/pacman.d/
@@ -26,6 +26,8 @@ Step-4) Execute the script
 ```
 Note: This will create a new file named mirrorlist.bak inside /etc/pacman.d/
 
+
+<!-- Authors -->
 ## Authors
 
 - [Avik Agarwala](https://www.github.com/AvikAgarwala)
