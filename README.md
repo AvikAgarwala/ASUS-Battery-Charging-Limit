@@ -1,33 +1,4 @@
-
-# Arch Fingertips
-
-Scripts to simplify Arch Linux usage.
-
-<!-- Mirror list update -->
-## 🪞 MIRROR LIST UPDATE
-
-#### This script is used to update the mirrorlist located in `/etc/pacman.d/`.
-
-`Step 1:` Install reflector.
-```bash
-  sudo pacman -S reflector
-```
-
-`Step 2:` Download the [mirror-update.sh](https://github.com/AvikAgarwala/arch-fingertips/blob/main/mirror-update.sh) script.
-
-`Step 3:` Grant executable permission to the script file.
-```bash
-  chmod +x mirror-update.sh
-```
-
-`Step 4:` Execute the script.
-```bash
-  sudo sh mirror-update.sh
-```
-`Note:` This will create a new file named `mirrorlist.bak` inside `/etc/pacman.d/`.
-
-<!-- Set ASUS battery charging limit -->
-## 🔋 ASUS BATTERY CHARGING LIMIT
+# 🔋 ASUS BATTERY CHARGING LIMIT
 
 #### This script is used to set the charging limit for ASUS laptops (tested with ASUS ZenBook 14 UX425EA).
 
@@ -50,5 +21,4 @@ Scripts to simplify Arch Linux usage.
 
 - [Avik Agarwala](https://www.github.com/AvikAgarwala)
 - [Alik Agarwala](https://www.github.com/alik-agarwala)
-- [Rajdeep Banerjee](https://www.github.com/BanerjeeRajdeep)
 
