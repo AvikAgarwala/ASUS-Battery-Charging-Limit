@@ -15,10 +15,10 @@
 ```
 `Note:` This will set the battery charging limit to 60%. The setting will persist even after restarting. To change the limit, follow Step 3 and pass the desired value.
 
-
 <!-- Authors -->
-## Authors
+## Contributors
+<a href="https://github.com/AvikAgarwala/ASUS-Battery-Charging-Limit/contributors"><img src="https://contrib.rocks/image?repo=AvikAgarwala/ASUS-Battery-Charging-Limit"></a>
 
-- [Avik Agarwala](https://www.github.com/AvikAgarwala)
-- [Alik Agarwala](https://www.github.com/alik-agarwala)
-
+<!-- License -->
+## License
+[MIT](./LICENSE)
