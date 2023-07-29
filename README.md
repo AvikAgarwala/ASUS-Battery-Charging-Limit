@@ -2,7 +2,7 @@
 
 #### This script is used to set the charging limit for ASUS laptops (tested with ASUS ZenBook 14 UX425EA).
 
-`Step 1:` Download the [asus-battery-health-charging.sh](https://github.com/AvikAgarwala/ASUS-Battery-Charging-Limit/blob/main/asus-battery-health-charging.sh) script.
+`Step 1:` Download the [asus-battery-health-charging.sh](asus-battery-health-charging.sh) script.
 
 `Step 2:` Grant executable permission to the script file.
 ```bash
