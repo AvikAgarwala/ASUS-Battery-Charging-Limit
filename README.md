@@ -19,6 +19,30 @@
 ## Contributors
 
 <!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/AvikAgarwala">
+            <img src="https://avatars.githubusercontent.com/u/98759608?v=4" width="100;" alt="AvikAgarwala"/>
+            <br />
+            <sub><b>Avik Agarwala</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Alik-Agarwala">
+            <img src="https://avatars.githubusercontent.com/u/98759503?v=4" width="100;" alt="Alik-Agarwala"/>
+            <br />
+            <sub><b>Alik Agarwala</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/BanerjeeRajdeep">
+            <img src="https://avatars.githubusercontent.com/u/111561385?v=4" width="100;" alt="BanerjeeRajdeep"/>
+            <br />
+            <sub><b>Rajdeep Banerjee</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators,contributors -end -->
 
 <!-- License -->
