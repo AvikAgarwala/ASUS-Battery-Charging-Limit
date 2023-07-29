@@ -17,7 +17,9 @@
 
 <!-- Authors -->
 ## Contributors
-<a href="https://github.com/AvikAgarwala/ASUS-Battery-Charging-Limit/contributors"><img src="https://contrib.rocks/image?repo=AvikAgarwala/ASUS-Battery-Charging-Limit"></a>
+
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
 
 <!-- License -->
 ## License
