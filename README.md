@@ -1,6 +1,6 @@
 ## 🔋 ASUS BATTERY CHARGING LIMIT
 
-#### This script is used to set the charging limit for ASUS laptops (tested with ASUS ZenBook 14 UX425EA and ASUS Zephyrus G14 GA401QC).
+#### This script is used to set the charging limit for ASUS laptops (tested with `ASUS ZenBook 14 UX425EA` and `ASUS Zephyrus G14 GA401QC`).
 
 ---
 
